@@ -6,6 +6,9 @@
     text-decoration: none;
     font-family: var(--font-default);
 }
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --font-primary: "Amatic SC", sans-serif;
     --color-light-grey: #eee;
